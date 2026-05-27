@@ -1,0 +1,6 @@
+{
+  "name": "TechZine 电子杂志",
+  "description": "一个为微信公众号设计的现代化电子杂志，涵盖架构、AI和技术动态。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
